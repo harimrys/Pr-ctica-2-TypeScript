@@ -64,10 +64,3 @@ showDireccion(): string {
     return direccion;
  }
 }
-
-
-
-
-
-
-
